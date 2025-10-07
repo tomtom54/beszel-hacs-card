@@ -1,0 +1,6 @@
+{
+  "name": "Beszel Dashboard Card",
+  "categories": ["lovelace"],
+  "render_readme": true,
+  "render_changelog": true
+}

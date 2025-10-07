@@ -1,0 +1,16 @@
+.card-header {
+  padding: 16px;
+  color: var(--primary-text-color);
+  background: var(--primary-color);
+}
+
+.card-content {
+  padding: 16px;
+  font-family: var(--paper-font-body1_-_font-family);
+  color: var(--primary-text-color);
+}
+
+pre {
+  white-space: pre-wrap;
+  word-wrap: break-word;
+}
